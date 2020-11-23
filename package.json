@@ -1,0 +1,28 @@
+{
+  "name": "@ilurk/bass",
+  "version": "0.0.1",
+  "description": "A modern alternative to CSS resets.",
+  "main": "src/bass.css",
+  "style": "src/bass.css",
+  "files": [
+    "LICENSE.md",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hylurk/bass.git"
+  },
+  "keywords": [
+    "bass",
+    "ilurk",
+    "reset",
+    "css"
+  ],
+  "author": "hylurk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hylurk/bass/issues"
+  },
+  "homepage": "https://github.com/hylurk/bass#readme",
+  "dependencies": {}
+}
