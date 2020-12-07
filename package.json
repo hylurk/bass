@@ -1,6 +1,6 @@
 {
   "name": "@ilurk/bass",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A modern alternative to CSS resets.",
   "main": "src/bass.css",
   "style": "src/bass.css",

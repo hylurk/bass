@@ -1,8 +1,9 @@
 /*! @ilurk/bass v0.0.1 | MIT License | github.com/hylurk/bass */
 
-html, body, div, section, ul, ol, li, p, h1, h2, h3, h4, h5, h6, input, textarea, select {
+html, body, div, section, header, footer, ul, ol, li, p, h1, h2, h3, h4, h5, h6, input, textarea, select, video, audio, cite, code, canvas, blockquote pre, small, sup, sub, time, var, menu, nav, strong, article, address, aside, del, fieldset, figure, em, embed {
   margin: 0;
   padding: 0;
+  line-height: 0;
 }
 
 ul, ol {
