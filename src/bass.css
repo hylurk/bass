@@ -1,6 +1,6 @@
 /*! @ilurk/bass v0.0.1 | MIT License | github.com/hylurk/bass */
 
-div, section, ul, ol, li, p, h1, h2, h3, h4, h5, h6, input, textarea, select {
+html, body, div, section, ul, ol, li, p, h1, h2, h3, h4, h5, h6, input, textarea, select {
   margin: 0;
   padding: 0;
 }
